@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: al;
+    color: aliceblue;
+} 
+html body{
+    width: 100vw;
+    height: 100vh;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    position: relative;
+    
+   
+   
+}
+.heading{
+    height: 190px;
+    width: 100%;
+    font-size: 3vw;
+    display: flex;
+    position: relative;
+    border-bottom: 3px solid white;
+}
+.heading h1{
+   
+    mix-blend-mode: difference;
+    z-index: 9;
+}
+.heading img{
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    
+    opacity: 0;
+    transition: all linear o.2s;
+    
+
+}
