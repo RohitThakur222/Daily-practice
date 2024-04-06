@@ -17,3 +17,5 @@
 ![MARKCOMPLETE](https://github.com/RohitThakur222/Daily-practice/assets/165714274/e43f49ae-edda-41fe-8238-378298927292)
 ## Remove item from list 
 ![REMOVE DATA (1)](https://github.com/RohitThakur222/Daily-practice/assets/165714274/ae6d14da-7d70-408c-8184-a11be6c0e029)
+## Local storage
+![local storage](https://github.com/RohitThakur222/Daily-practice/assets/165714274/3ac77976-b257-46c0-82ca-34174665649f)
