@@ -9,4 +9,7 @@
 ![Recording 2024-04-03 015512](https://github.com/RohitThakur222/Daly-practice/assets/165714274/304a872e-a713-457f-940a-21439496af8a)
 ## 5 Weather app using async js fetch, html ,css.
 ![Recording 2024-04-05 225836](https://github.com/RohitThakur222/Daily-practice/assets/165714274/ff34f01e-6a00-48c7-b7c2-f5d2986fd610)
+## 6 Email get data from user.
+![Emaildata](https://github.com/RohitThakur222/Daily-practice/assets/165714274/ef840b90-f3f8-4055-90d0-7cfc73a2c498)
+
 
