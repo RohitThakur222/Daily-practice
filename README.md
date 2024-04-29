@@ -11,5 +11,5 @@
 ![Recording 2024-04-05 225836](https://github.com/RohitThakur222/Daily-practice/assets/165714274/ff34f01e-6a00-48c7-b7c2-f5d2986fd610)
 ## 6 Email get data from user.
 ![Emaildata](https://github.com/RohitThakur222/Daily-practice/assets/165714274/ef840b90-f3f8-4055-90d0-7cfc73a2c498)
-
-
+## 7 Count_Down
+![count_down](https://github.com/RohitThakur222/Daily-practice/assets/165714274/1a23b5cf-fe0f-472d-8a48-fc5d01e924d5)
